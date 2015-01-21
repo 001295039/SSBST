@@ -1,0 +1,33 @@
+#leftNav {
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+    border:1px solid black;
+    position:relative;
+}
+#nav{
+    position:relative;
+     border:1px solid black;
+    
+}
+
+#header
+{
+   position:relative;  
+    
+    
+}
+#smashball1
+{
+     position:relative; 
+     
+}
+#SmashballDiv
+{
+    position:relative; 
+    height:90px;
+    width:90px;
+    float:left;
+    
+}
